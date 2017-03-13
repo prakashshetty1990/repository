@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 27 15:31:41 IST 2015
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact frameworks\:frame\:jar\:sources\:1.0.0 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1445940101230
